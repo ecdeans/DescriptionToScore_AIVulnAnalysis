@@ -52,7 +52,7 @@ Usage
 3. View output CSV files for results.
 4. Place output file in the correct folder.
 5. Run the script:
-   8_target_var_promptEng.py
+   2ex_descriptionOnly_scoring.py
 6. View output CSV and Json files for results.
 
 Features
