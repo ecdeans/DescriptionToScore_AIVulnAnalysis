@@ -30,7 +30,7 @@ Potential Impact:
 Installation
 ------------
 1. Clone the repository:
-   git clone https://github.com/ecdeans/DescriptionToScore_AIVulnAnalysis.git
+   git clone https://github.com/ecdeans/DescriptionToScore_AIVulnAnalysis
    cd DescriptionToScore_AIVulnAnalysis
 
 2. Ensure you have Python 3.x installed.
